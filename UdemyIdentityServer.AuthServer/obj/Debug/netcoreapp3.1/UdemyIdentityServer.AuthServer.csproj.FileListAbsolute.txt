@@ -36,3 +36,14 @@ C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\ob
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\UdemyIdentityServer.AuthServer.pdb
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\UdemyIdentityServer.AuthServer.genruntimeconfig.cache
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\UdemyIdentityServer.AuthServer.csproj.CopyComplete
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

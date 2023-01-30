@@ -35,3 +35,4 @@ C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\De
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\UdemyIdentityServer.Client1.pdb
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\UdemyIdentityServer.Client1.genruntimeconfig.cache
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\UdemyIdentityServer.Client1.csproj.CopyComplete
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\UdemyIdentityServer.Client1.csproj.AssemblyReference.cache

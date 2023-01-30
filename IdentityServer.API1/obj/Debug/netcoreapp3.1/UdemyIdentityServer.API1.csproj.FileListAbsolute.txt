@@ -18,3 +18,4 @@ C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API1\obj\Debug\net
 C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API1\obj\Debug\netcoreapp3.1\UdemyIdentityServer.API1.dll
 C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API1\obj\Debug\netcoreapp3.1\UdemyIdentityServer.API1.pdb
 C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API1\obj\Debug\netcoreapp3.1\UdemyIdentityServer.API1.genruntimeconfig.cache
+C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API1\obj\Debug\netcoreapp3.1\UdemyIdentityServer.API1.csproj.AssemblyReference.cache
