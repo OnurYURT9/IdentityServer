@@ -19,3 +19,12 @@ C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\obj\Debug\net
 C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\obj\Debug\netcoreapp3.1\UdemyIdentityServer.API2.pdb
 C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\obj\Debug\netcoreapp3.1\UdemyIdentityServer.API2.genruntimeconfig.cache
 C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\obj\Debug\netcoreapp3.1\UdemyIdentityServer.API2.csproj.AssemblyReference.cache
+C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\IdentityServer.API2\obj\Debug\netcoreapp3.1\UdemyIdentityServer.API2.csproj.CopyComplete

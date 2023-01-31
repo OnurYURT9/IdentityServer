@@ -47,3 +47,17 @@ C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bi
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Consent\Index.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\Success.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Diagnostics\Index.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Grants\Index.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Redirect.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Nav.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.AuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
