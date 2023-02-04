@@ -114,3 +114,11 @@ C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\De
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs

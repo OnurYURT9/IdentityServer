@@ -1,4 +1,5 @@
-﻿using IdentityServer4.Models;
+﻿using IdentityServer4;
+using IdentityServer4.Models;
 using IdentityServer4.Test;
 using System;
 using System.Collections.Generic;
@@ -87,7 +88,19 @@ namespace UdemyIdentityServer.AuthServer
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
                     AllowedScopes={"api1.read","api1.update" ,"api2.write","api2.update"}
 
-                }
+                },
+                  new Client()
+                  {
+                      ClientId = "Client1-Mvc",
+                      RequirePkce=false, //clientsecret güvenli tutuyorum.
+                      ClientName ="Client 1 mvc app Uygulaması",
+                      ClientSecrets = new[] {new Secret("secret".Sha256())},
+                      AllowedGrantTypes = GrantTypes.Hybrid,
+                      RedirectUris= new List<string>{ "https://localhost:5003/signin-OIdCookies" }, //bu url token alma işlemini gerçekleştirir.
+                      AllowedScopes = {IdentityServerConstants.StandardScopes.OpenId,
+                          IdentityServerConstants.StandardScopes.Profile}
+                  }
+
             };
         }
     }

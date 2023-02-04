@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.IdentityModel.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,6 +24,21 @@ namespace UdemyIdentityServer.Client
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            
+
+            services.AddAuthentication(opt =>
+            {
+                // Cookies ile openid den gelen cookies haberleþecek
+                opt.DefaultScheme = "Cookies";
+                opt.DefaultChallengeScheme = "OIdCookies";
+            }).AddCookie("Cookies").AddOpenIdConnect("OIdCookies", opt =>
+             {
+                 opt.SignInScheme = "Cookies";
+                 opt.Authority = "https://localhost:5001";//cookie daðýtan kim
+                opt.ClientId = "Client1-Mvc";
+                 opt.ClientSecret = "secret";
+                 opt.ResponseType = "code id_token";
+             });
             services.AddControllersWithViews();
         }
 
@@ -43,7 +59,7 @@ namespace UdemyIdentityServer.Client
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
