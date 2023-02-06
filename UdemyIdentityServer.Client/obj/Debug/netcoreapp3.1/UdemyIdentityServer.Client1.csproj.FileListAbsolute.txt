@@ -16,8 +16,6 @@ C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\De
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\UdemyIdentityServer.Client1.RazorAssemblyInfo.cache
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\UdemyIdentityServer.Client1.RazorAssemblyInfo.cs
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\staticwebassets\UdemyIdentityServer.Client1.StaticWebAssets.Manifest.cache
-C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\staticwebassets\UdemyIdentityServer.Client1.StaticWebAssets.xml
-C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\scopedcss\bundle\UdemyIdentityServer.Client1.styles.css
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\UdemyIdentityServer.Client1.TagHelpers.input.cache
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\UdemyIdentityServer.Client1.TagHelpers.output.cache
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\UdemyIdentityServer.Client1.RazorCoreGenerate.cache
@@ -122,3 +120,8 @@ C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\De
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessDenied.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\Razor\Views\User\AdminAction.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\Razor\Views\User\CustomerAction.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\staticwebassets\UdemyIdentityServer.Client1.StaticWebAssets.xml
+C:\Users\ONUR\source\repos\UdemyIdentityServer\UdemyIdentityServer.Client\obj\Debug\netcoreapp3.1\scopedcss\bundle\UdemyIdentityServer.Client1.styles.css

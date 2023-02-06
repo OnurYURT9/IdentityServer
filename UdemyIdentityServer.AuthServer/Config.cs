@@ -96,8 +96,8 @@ namespace UdemyIdentityServer.AuthServer
                       ClientName ="Client 1 mvc app Uygulaması",
                       ClientSecrets = new[] {new Secret("secret".Sha256())},
                       AllowedGrantTypes = GrantTypes.Hybrid,
-                      RedirectUris= new List<string>{ "https://localhost:5003/signin-OIdCookies" }, //bu url token alma işlemini gerçekleştirir.
-                      AllowedScopes = {IdentityServerConstants.StandardScopes.OpenId,
+                       RedirectUris= new List<string>{ "https://localhost:5003/signin-oidc" },                     
+                       AllowedScopes = {IdentityServerConstants.StandardScopes.OpenId,
                           IdentityServerConstants.StandardScopes.Profile}
                   }
 
