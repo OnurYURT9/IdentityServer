@@ -1,4 +1,4 @@
-# IdentityServer4
+# IdentityServer
 OAuth 2.0 ve OpenID Connect protocol
 
 <strong>Json Web Token:</strong> İletişim halindeki taraflar arasında güvenli şekilde veri alışverişini sağlayan standarttır. <br/>
